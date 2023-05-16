@@ -19,7 +19,7 @@ test {
 }
 jar {
     manifest {
-        attributes "Main-Class": "Main"
+        attributes "Main-Class": "org.example/Main"
     }
 }
 
